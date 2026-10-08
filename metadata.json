@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA",
+  "description": "NEXORA is a premier electronics-only marketplace offering flagship laptops, smartphones, audio, gaming gear, and tech accessories with seamless shopping and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
